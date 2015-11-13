@@ -1,4 +1,5 @@
 Implementing the Command Pattern in Java
+Steps:
 
 1) Define a Java Command interface with a method named execute(). (You can name it anything you want, but it is classically named execute() or run().)
 
